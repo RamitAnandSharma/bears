@@ -1,0 +1,14 @@
+{
+  "realm": "sinberbest",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwliDGu5qaVmFU/VIum2J86GgIupwAu9VtCOp2P7epxtSuuoHWaXLGytBZeZxrbWPHE8JyQk/H/BWKVDu8ScrZpdZTVxfQcAeNI5kYoOpTn0P3M686NY0+aBITR4G3AZfHCk2VRKjnkKBJiRdCPLSTNXtqIAUSl8uThM4iuLhuA34+iyripXKVU8Ic+WMSQ+VRq/0qNg6RwyzawncWso/nMbLtqDiFB6+hcgaoHNLXnt0Kl5jtKCdjxUBFPQZsck1xNHPeMHA+8OIrJQKt8rYF7OC6ECZIFEFd6F0wMoiCA9fnyWpfkdnsAhomK2w75MVKm+eB5G7AU6WBX4WRmQacQIDAQAB",
+  "auth-server-url": "http://172.25.186.110:8180/auth",
+  "ssl-required": "external",
+  "resource": "upss",
+  "public-client": true,
+  "enable-cors": true,
+  "credentials": {
+    "secret": "ed479d62-f62f-4f25-83aa-23d5417970fc"
+  }
+
+
+}
